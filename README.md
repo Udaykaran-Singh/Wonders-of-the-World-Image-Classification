@@ -204,14 +204,6 @@ Open `CV - Image classification Notebook.ipynb` and execute the cells.
 - Explore ensemble learning techniques.
 - Deploy the trained model through a web-based interface.
 
-## 👨‍💻 Team Contributions
-
-| Team Member | Contribution |
-|---|---|
-| Anu | Dataset splitting, model architecture, transfer learning setup, and training pipeline |
-| Aarti | Data augmentation and feature engineering |
-| **Uday Karan Singh** | **Model testing, validation, and evaluation using different performance metrics** |
-
 ## 📚 References
 
 1. He, K. et al. (2016). *Identity Mappings in Deep Residual Networks*. ECCV 2016.
